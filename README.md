@@ -34,3 +34,5 @@ I'm a developer passionate about front-end development with a strong command of 
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VanderDeng&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanderDeng&layout=compact&theme=radical)
