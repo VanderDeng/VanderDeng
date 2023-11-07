@@ -5,8 +5,8 @@ I'm a developer passionate about front-end development with a strong command of 
 ## About Me 🚀
 
 - 🌐 I excel at creating Single Page Applications (SPA), blending intuitive design with performance.
-- 💼 Former Front-end Developer at **DIDI**.
-- 💻 Full-stack Developer background from my time at **Tencent**.
+- 💼 Former Front-end Developer at ![DIDI](https://img.shields.io/badge/-DIDI-FA7343?style=flat-square&logo=didi&logoColor=white) **DIDI**.
+- 💻 Full-stack Developer background from my time at ![Tencent](https://img.shields.io/badge/-Tencent-000000?style=flat-square&logo=tencentqq&logoColor=white) **Tencent**.
 - 🎨 Proficient in **UI/UX design principles**.
 - 🌱 Lifelong learner, always updating with the latest in industry trends and technologies.
 
